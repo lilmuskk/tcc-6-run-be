@@ -33,3 +33,5 @@
 9. Jika sudah berhasil, maka pada bagian log akan memiliki tampilan seperti ini
 
 ![trigger success](screenshot/trigger_success.png)
+
+10. DONE BANG
